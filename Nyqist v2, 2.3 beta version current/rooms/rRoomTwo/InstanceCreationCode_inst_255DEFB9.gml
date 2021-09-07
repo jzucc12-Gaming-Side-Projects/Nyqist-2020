@@ -1,0 +1,1 @@
+combat_data = new CombatData(c_green,c_yellow,-1,[oEnemy1,oEnemy1,oEnemy1],id);
